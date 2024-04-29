@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Create a view for Place"""
+"""Create A View For Place"""
 
 from flask import jsonify, request, abort, make_response
 from api.v1.views import app_views
